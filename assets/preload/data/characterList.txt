@@ -25,3 +25,7 @@ template2
 template3
 template4
 template5
+Furnace
+starved-pixel
+pixelrunsonic
+runsonic
