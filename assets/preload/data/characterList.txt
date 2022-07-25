@@ -29,3 +29,5 @@ Furnace
 starved-pixel
 pixelrunsonic
 runsonic
+bf-running-sonic
+bf-Sonic-Peelout
